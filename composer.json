@@ -5,7 +5,8 @@
     "require": {
         "php": "^8.3",
         "potter/link-trait": "dev-main",
-        "potter/evolvable-link-trait": "dev-main"
+        "potter/evolvable-link-trait": "dev-main",
+        "potter/link-provider-traits": "dev-main"
     },
     "license": "MIT",
     "authors": [
